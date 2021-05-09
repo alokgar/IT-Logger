@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "ha ha ha !!!!!",
+      "attention": false,
+      "tech": "Alok Garg",
+      "date": "2020-12-28T12:58:37.015Z"
+    },
+    {
+      "message": "fixed 002 hardDrive",
+      "attention": false,
+      "tech": "Aman Verma",
+      "date": "2020-12-28T14:05:27.249Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
